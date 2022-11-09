@@ -1,0 +1,85 @@
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+  }
+  
+  body {
+    font: 16px/28px arial, sans-serif;
+    background-color: #eaeaea;
+    background-image: url(img/polri.jpg);
+    color: #333;
+  }
+  
+  .header {
+    padding: 10px;
+    padding: 5px;
+  }
+  
+  .headaer.judul {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .header ul li {
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 15px;
+  }
+  
+  .header a {
+    text-decoration: none;
+    color: red;
+    padding: 3px;
+  }
+  
+  .header a:hover {
+    background-color: cadetblue;
+    color: white;
+  }
+  
+  .hero {
+    height: 500px;
+    background-image: url(img/sambo.jpg);
+    background-size: cover;
+    background-position: 0 0;
+    border-top: 5px solid mediumspringgreen;
+    border-bottom: 5px solid mediumturquoise;
+  }
+  
+  .content {
+    padding: 15px;
+  }
+  
+  .content h2 {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .content .penulis {
+    font-size: 13px;
+    margin-top: -15px;
+  }
+  
+  .content .penulis a {
+    color: salmon;
+    text-decoration: none;
+  }
+  
+  .content .p1 {
+    margin-left: 20px;
+  }
+  
+  .footer {
+    background-color: #333;
+  }
+  
+  .footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 10px;
+  }
+  
+  .sumber {
+    color: #333;
+  }
